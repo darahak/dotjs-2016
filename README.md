@@ -29,12 +29,12 @@ Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
 
 ## [Evan You](https://twitter.com/youyuxi) - How Things Happen in Frontend JavaScript Frameworks
 
-- ~~Slides~~
+- [Slides](https://docs.google.com/presentation/d/1_BlJxudppfKmAtfbNIcqNwzrC5vLrR_h1e09apcpdNY/)
 - ~~Video~~
 
-## [Fedor Indutny](https://twitter.com/indutny) - Memory Layout in v8
+## [Fedor Indutny](https://twitter.com/indutny) - Memory Layout of V8's Heap
 
-- ~~Slides~~
+- [Slides](http://paris2016.talks.darksi.de/)
 - ~~Video~~
 
 ## [Sam Wray](https://twitter.com/_2xAA) & [Tim Pietrusky](https://twitter.com/timpietrusky) - LiveJS

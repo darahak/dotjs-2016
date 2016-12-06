@@ -37,7 +37,7 @@ Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
 - [Slides](http://paris2016.talks.darksi.de/)
 - ~~Video~~
 
-## [Sam Wray](https://twitter.com/_2xAA) & [Tim Pietrusky](https://twitter.com/timpietrusky) - LiveJS
+## [Sam Wray](https://twitter.com/_2xAA) & [Tim Pietrusky](https://twitter.com/timpietrusky) - [LiveJS](http://livejs.network/)
 
 - ~~Slides~~
 - ~~Video~~

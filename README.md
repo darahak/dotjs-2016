@@ -2,6 +2,10 @@
 
 Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
 
+## Pictures
+
+- [Live Sketching](https://www.flickr.com/photos/97226415@N08/sets/72157673584112393/) (by [Florine Pigny](https://twitter.com/FlorinePigny))
+
 ## [Nolan Lawson](https://twitter.com/nolanlawson) - Service Worker and the Appification of the Web
 
 - [Slides](https://nolanlawson.github.io/dotjs-2016/)
@@ -42,7 +46,7 @@ Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
 - ~~Slides~~
 - ~~Video~~
 
-## [Guillermo Rauch](https://twitter.com/rauchg) - Universal JavaScript (?)
+## [Guillermo Rauch](https://twitter.com/rauchg) - Universal JavaScript
 
 - ~~Slides~~
 - ~~Video~~

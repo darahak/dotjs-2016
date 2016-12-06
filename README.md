@@ -43,7 +43,7 @@ Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
 
 ## [Sam Wray](https://twitter.com/_2xAA) & [Tim Pietrusky](https://twitter.com/timpietrusky) - [LiveJS](http://livejs.network/)
 
-- ~~Slides~~
+- [Slides](https://github.com/livejs/dotjs2016)
 - ~~Video~~
 
 ## [Guillermo Rauch](https://twitter.com/rauchg) - Universal JavaScript

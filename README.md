@@ -2,8 +2,7 @@
 
 Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
 
-## Pictures
-
+- [Photos](https://www.flickr.com/photos/97226415@N08/sets/72157675822234502/)
 - [Live Sketching](https://www.flickr.com/photos/97226415@N08/sets/72157673584112393/) (by [Florine Pigny](https://twitter.com/FlorinePigny))
 
 ## [Nolan Lawson](https://twitter.com/nolanlawson) - Service Worker and the Appification of the Web

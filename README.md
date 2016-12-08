@@ -48,6 +48,10 @@ Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
 - ~~Slides~~
 - ~~Video~~
 
+#### Related
+
+- [JavaScript Modules: a Beginner's Guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.gn9ymycjy)
+
 ### [Zeke Sikelianos](http://twitter.com/zeke): JavaScript Userland
 
 - [Slides](https://github.com/zeke/javascript-userland)

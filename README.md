@@ -2,7 +2,7 @@
 
 Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
 
-## Reports
+## Reviews
 
 - [Innovation, get used to it](https://www.magnolia-cms.com/blogs/christopher-zimmermann/detail~@innovation--get-used-to-it.---dotjs-2016-conference-report~.html) (by [Christopher Zimmermann](https://twitter.com/basel_js))
 

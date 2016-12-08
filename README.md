@@ -28,6 +28,10 @@ Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
 - [Slides](https://ada.is/webvr/talk-dot-js.html)
 - ~~Video~~
 
+#### Related
+
+- [W3C WebVR Workshop Follow Up](https://medium.com/samsung-internet-dev/w3c-webvr-workshop-follow-up-bcfe6558ccba#.jyl3peckz)
+
 ### [Christophe Porteneuve](https://twitter.com/porteneuve): Tuning Babel to your Runtimes
 
 - [Slides](https://tdd.github.io/dotjs2016-babel-tuning/)

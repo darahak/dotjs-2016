@@ -77,6 +77,10 @@ Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
 - ~~Slides~~
 - ~~Video~~
 
+#### Related
+
+- [Next.js: a Framework for Server-Rendered Universal JavaScript Webapps](https://zeit.co/blog/next)
+
 ### [Igor Minar](https://twitter.com/IgorMinar): Angular
 
 - ~~Slides~~

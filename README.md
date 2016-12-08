@@ -18,6 +18,11 @@ Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
 - [Slides](https://nolanlawson.github.io/dotjs-2016/)
 - ~~Video~~
 
+#### Related 
+
+- [The Building Blocks of Progressive Web Apps](https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/)
+- [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
+
 ### [Ada Rose Edwards](http://twitter.com/Lady_Ada_King): Bringing VR to the Web
 
 - [Slides](https://ada.is/webvr/talk-dot-js.html)

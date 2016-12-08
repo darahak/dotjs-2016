@@ -28,6 +28,12 @@ Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
 - [Slides](https://tdd.github.io/dotjs2016-babel-tuning/)
 - ~~Video~~
 
+#### Related
+
+- [The State of Babel](https://babeljs.io/blog/2016/12/07/the-state-of-babel)
+- [TC39 Process Sketch, Stages 0 and 1](https://thefeedbackloop.xyz/tc39-a-process-sketch-stages-0-and-1/)
+- [TC39 Process Sketch, Stage 2](https://thefeedbackloop.xyz/tc39-process-sketch-stage-2/)
+
 ### [Guy Bedford](https://twitter.com/guybedford): Modular JavaScript (?)
 
 - ~~Slides~~

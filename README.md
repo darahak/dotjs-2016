@@ -70,10 +70,14 @@ All contents for dot conferences can be found on [The dot Post](http://www.thedo
 - [Slides](http://paris2016.talks.darksi.de/)
 - ~~Video~~
 
-### [Sam Wray](https://twitter.com/_2xAA) & [Tim Pietrusky](https://twitter.com/timpietrusky): [LiveJS](http://livejs.network/)
+### [Sam Wray](https://twitter.com/_2xAA) & [Tim Pietrusky](https://twitter.com/timpietrusky): [Live:JS](http://livejs.network/)
 
 - [Slides](https://github.com/livejs/dotjs2016)
 - ~~Video~~
+
+#### Related
+
+- [dotJS After Party with Live:JS](https://www.youtube.com/watch?v=oR9vIXlu714)
 
 ### [Guillermo Rauch](https://twitter.com/rauchg): Universal JavaScript
 

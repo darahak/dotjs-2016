@@ -1,6 +1,7 @@
 # dotJS 2016
 
 Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
+
 All contents for dot conferences can be found on [The dot Post](http://www.thedotpost.com/).
 
 ## Reviews
@@ -27,7 +28,7 @@ All contents for dot conferences can be found on [The dot Post](http://www.thedo
 ### [Ada Rose Edwards](http://twitter.com/Lady_Ada_King): Bringing VR to the Web
 
 - [Slides](https://ada.is/webvr/talk-dot-js.html)
-- ~~Video~~
+- [Video](https://www.youtube.com/watch?v=Xn4mkKCRWT4)
 
 #### Related
 
@@ -62,7 +63,7 @@ All contents for dot conferences can be found on [The dot Post](http://www.thedo
 ### [Evan You](https://twitter.com/youyuxi): How Things Happen in Frontend JavaScript Frameworks
 
 - [Slides](https://docs.google.com/presentation/d/1_BlJxudppfKmAtfbNIcqNwzrC5vLrR_h1e09apcpdNY/)
-- ~~Video~~
+- [Video](https://www.youtube.com/watch?v=r4pNEdIt_l4)
 
 ### [Fedor Indutny](https://twitter.com/indutny): Memory Layout of V8's Heap
 

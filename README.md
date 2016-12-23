@@ -1,6 +1,7 @@
 # dotJS 2016
 
 Content links for the [dotJS](https://www.dotjs.io/) 2016 conference talks.
+All contents for dot conferences can be found on [The dot Post](http://www.thedotpost.com/).
 
 ## Reviews
 

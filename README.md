@@ -72,12 +72,12 @@ All contents for dot conferences can be found on [The dot Post](http://www.thedo
 
 ### [Sam Wray](https://twitter.com/_2xAA) & [Tim Pietrusky](https://twitter.com/timpietrusky): [{Live:JS}](http://livejs.network/)
 
-- [Slides](https://github.com/livejs/dotjs2016)
+- [Slides](https://slides.com/timpietrusky/livejs-dotjs-2016) ([repo])(https://github.com/livejs/dotjs2016)
 - [Video](https://www.youtube.com/watch?v=GA7-OfYSzvA)
 
 #### Related
 
-- [dotJS After Party with Live:JS](https://www.youtube.com/watch?v=oR9vIXlu714)
+- [dotJS After Party with {Live:JS}](https://www.youtube.com/watch?v=oR9vIXlu714)
 
 ### [Guillermo Rauch](https://twitter.com/rauchg): Universal JavaScript
 

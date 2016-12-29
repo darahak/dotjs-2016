@@ -70,10 +70,10 @@ All contents for dot conferences can be found on [The dot Post](http://www.thedo
 - [Slides](http://paris2016.talks.darksi.de/)
 - ~~Video~~
 
-### [Sam Wray](https://twitter.com/_2xAA) & [Tim Pietrusky](https://twitter.com/timpietrusky): [Live:JS](http://livejs.network/)
+### [Sam Wray](https://twitter.com/_2xAA) & [Tim Pietrusky](https://twitter.com/timpietrusky): [{Live:JS}](http://livejs.network/)
 
 - [Slides](https://github.com/livejs/dotjs2016)
-- ~~Video~~
+- [Video](https://www.youtube.com/watch?v=GA7-OfYSzvA)
 
 #### Related
 

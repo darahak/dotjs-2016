@@ -58,7 +58,7 @@ All contents for dot conferences can be found on [The dot Post](http://www.thedo
 ### [Zeke Sikelianos](http://twitter.com/zeke): JavaScript Userland
 
 - [Slides](https://github.com/zeke/javascript-userland)
-- ~~Video~~
+- [Video](https://www.youtube.com/watch?v=S8NCuwg8Ywo)
 
 ### [Evan You](https://twitter.com/youyuxi): How Things Happen in Frontend JavaScript Frameworks
 

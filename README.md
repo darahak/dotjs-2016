@@ -18,7 +18,7 @@ All contents for dot conferences can be found on [The dot Post](http://www.thedo
 ### [Nolan Lawson](https://twitter.com/nolanlawson): Service Worker and the Appification of the Web
 
 - [Slides](https://nolanlawson.github.io/dotjs-2016/)
-- ~~Video~~
+- [Video](https://www.youtube.com/watch?v=ZVL6FeCJdD8)
 
 #### Related 
 

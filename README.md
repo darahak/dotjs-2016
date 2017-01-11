@@ -88,7 +88,7 @@ All contents for dot conferences can be found on [The dot Post](http://www.thedo
 
 - [Next.js: a Framework for Server-Rendered Universal JavaScript Webapps](https://zeit.co/blog/next)
 
-### [Igor Minar](https://twitter.com/IgorMinar): Angular
+### [Igor Minar](https://twitter.com/IgorMinar): Keep Your Minds Open
 
-- ~~Slides~~
-- ~~Video~~
+- [Slides](https://goo.gl/JEabBg)
+- [Video](https://www.youtube.com/watch?v=7iBSc7YRzwU)

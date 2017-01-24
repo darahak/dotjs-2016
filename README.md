@@ -37,7 +37,7 @@ All contents for dot conferences can be found on [The dot Post](http://www.thedo
 ### [Christophe Porteneuve](https://twitter.com/porteneuve): Tuning Babel to your Runtimes
 
 - [Slides](https://tdd.github.io/dotjs2016-babel-tuning/)
-- ~~Video~~
+- [Video](https://www.youtube.com/watch?v=fb_1cqg8TKc)
 
 #### Related
 

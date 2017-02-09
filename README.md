@@ -46,10 +46,10 @@ All contents for dot conferences can be found on [The dot Post](http://www.thedo
 - [TC39 Process Sketch, Stages 0 and 1](https://thefeedbackloop.xyz/tc39-a-process-sketch-stages-0-and-1/)
 - [TC39 Process Sketch, Stage 2](https://thefeedbackloop.xyz/tc39-process-sketch-stage-2/)
 
-### [Guy Bedford](https://twitter.com/guybedford): Modular JavaScript (?)
+### [Guy Bedford](https://twitter.com/guybedford): Unbundling the Future Web Runtime
 
-- ~~Slides~~
-- ~~Video~~
+- [Slides](http://www.slideshare.net/GuyBedford1/unbundling-the-future-web-runtime?ref=http://www.thedotpost.com/2016/12/guy-bedford-unbundling-the-future-web-runtime)
+- [Video](https://www.youtube.com/watch?v=8AvKRFhwOkk)
 
 #### Related
 
